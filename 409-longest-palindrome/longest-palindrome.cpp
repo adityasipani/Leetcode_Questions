@@ -12,7 +12,7 @@ public:
                 oddCount--;
             }
            }
-           if(oddCount>1){
+           if(oddCount>0){
             return s.length()-oddCount+1;}
         else{
             return s.length();
