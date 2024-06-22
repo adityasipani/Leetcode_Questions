@@ -16,7 +16,20 @@ public:
             }
             else{cnt--;}
         }
-        return el;
+        //return el -->if its sure 
+
+        //not sure
+
+        int cnt1=0;
+        for(int i=0;i<n;i++){
+            if(el==nums[i]){
+                cnt1++;
+            }
+            if(cnt1>n/2){
+                return el;
+            }
+        }
+        return -1;
     }
 
 
