@@ -12,6 +12,7 @@ public:
             }
 
         }
+        // if(maxi<0)maxi=0;
         return maxi;
         
     }
