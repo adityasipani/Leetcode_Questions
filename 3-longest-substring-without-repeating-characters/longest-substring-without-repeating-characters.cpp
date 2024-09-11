@@ -1,21 +1,22 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
-      vector < int > freqmpp(256, -1);
+   int lengthOfLongestSubstring(string str) {
 
-      int left = 0, right = 0;
-      int n = s.size();
-      int len = 0;
-      while (right < n) {
-        if (freqmpp[s[right]] != -1)
-          left = max(freqmpp[s[right]] + 1, left);
-
-        freqmpp[s[right]] = right;
-
-        len = max(len, right - left + 1);
-        right++;
+  if(str.size()==0)
+      return 0;
+  int maxans = INT_MIN;
+  unordered_set < int > set;
+  int l = 0;
+  for (int r = 0; r < str.length(); r++) // outer loop for traversing the string
+  {
+   
+      while(l < r && set.find(str[r]) != set.end()) {
+        set.erase(str[l]);
+        l++;
       }
-      return len;
-    }
-};
-        
+    
+   set.insert(str[r]);
+    maxans = max(maxans, r - l + 1);
+  }
+  return maxans;
+}};
