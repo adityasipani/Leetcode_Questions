@@ -12,19 +12,15 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        //bas ecae
-        if(root==nullptr) return 0;
-
-        invertTree(root->left); //postorder
+        if(root==nullptr)return 0;
+        invertTree(root->left);
         invertTree(root->right);
 
-        //swapping
-     TreeNode *temp=root->left;
+        TreeNode*temp=root->left;
         root->left=root->right;
         root->right=temp;
 
         return root;
-
         
     }
 };
