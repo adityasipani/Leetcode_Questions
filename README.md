@@ -37,4 +37,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/adityasipani/Leetcode_Questions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/adityasipani/Leetcode_Questions/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/adityasipani/Leetcode_Questions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
