@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/adityasipani/Leetcode_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/adityasipani/Leetcode_Questions/tree/main/0396-rotate-function/) | Medium |
+| [1861-rotating-the-box](https://github.com/adityasipani/Leetcode_Questions/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/adityasipani/Leetcode_Questions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/adityasipani/Leetcode_Questions/tree/main/0048-rotate-image/) | Medium |
+| [1861-rotating-the-box](https://github.com/adityasipani/Leetcode_Questions/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/adityasipani/Leetcode_Questions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -56,4 +58,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/adityasipani/Leetcode_Questions/tree/main/0061-rotate-list/) | Medium |
+| [1861-rotating-the-box](https://github.com/adityasipani/Leetcode_Questions/tree/main/1861-rotating-the-box/) | Medium |
 <!---LeetCode Topics End-->
