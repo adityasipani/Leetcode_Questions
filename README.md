@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/adityasipani/Leetcode_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/adityasipani/Leetcode_Questions/tree/main/0396-rotate-function/) | Medium |
 | [0496-next-greater-element-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/0496-next-greater-element-i/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/adityasipani/Leetcode_Questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1861-rotating-the-box](https://github.com/adityasipani/Leetcode_Questions/tree/main/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityasipani/Leetcode_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/adityasipani/Leetcode_Questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -92,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/0496-next-greater-element-i/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/adityasipani/Leetcode_Questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 <!---LeetCode Topics End-->
