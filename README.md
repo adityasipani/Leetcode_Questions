@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3225-maximum-score-from-grid-operations](https://github.com/adityasipani/Leetcode_Questions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityasipani/Leetcode_Questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/adityasipani/Leetcode_Questions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3660-jump-game-ix](https://github.com/adityasipani/Leetcode_Questions/tree/main/3660-jump-game-ix/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/adityasipani/Leetcode_Questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1840-maximum-building-height](https://github.com/adityasipani/Leetcode_Questions/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/adityasipani/Leetcode_Questions/tree/main/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/adityasipani/Leetcode_Questions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/adityasipani/Leetcode_Questions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/adityasipani/Leetcode_Questions/tree/main/3660-jump-game-ix/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -102,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/adityasipani/Leetcode_Questions/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adityasipani/Leetcode_Questions/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/adityasipani/Leetcode_Questions/tree/main/2540-minimum-common-value/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/adityasipani/Leetcode_Questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,10 +158,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2540-minimum-common-value](https://github.com/adityasipani/Leetcode_Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/adityasipani/Leetcode_Questions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -201,4 +208,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
