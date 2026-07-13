@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/adityasipani/Leetcode_Questions/tree/main/1291-sequential-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
