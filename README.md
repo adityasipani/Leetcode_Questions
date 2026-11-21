@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adityasipani/Leetcode_Questions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/adityasipani/Leetcode_Questions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityasipani/Leetcode_Questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityasipani/Leetcode_Questions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adityasipani/Leetcode_Questions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityasipani/Leetcode_Questions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adityasipani/Leetcode_Questions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityasipani/Leetcode_Questions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityasipani/Leetcode_Questions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/adityasipani/Leetcode_Questions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/adityasipani/Leetcode_Questions/tree/main/1306-jump-game-iii/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/adityasipani/Leetcode_Questions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/adityasipani/Leetcode_Questions/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityasipani/Leetcode_Questions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -197,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3331-find-subtree-sizes-after-changes](https://github.com/adityasipani/Leetcode_Questions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
