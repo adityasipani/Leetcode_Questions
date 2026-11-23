@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1306-jump-game-iii](https://github.com/adityasipani/Leetcode_Questions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/adityasipani/Leetcode_Questions/tree/main/1345-jump-game-iv/) | Hard |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityasipani/Leetcode_Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/adityasipani/Leetcode_Questions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/adityasipani/Leetcode_Questions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/adityasipani/Leetcode_Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/adityasipani/Leetcode_Questions/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/adityasipani/Leetcode_Questions/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/adityasipani/Leetcode_Questions/tree/main/0788-rotated-digits/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityasipani/Leetcode_Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1840-maximum-building-height](https://github.com/adityasipani/Leetcode_Questions/tree/main/1840-maximum-building-height/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityasipani/Leetcode_Questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityasipani/Leetcode_Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/adityasipani/Leetcode_Questions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/adityasipani/Leetcode_Questions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/adityasipani/Leetcode_Questions/tree/main/1871-jump-game-vii/) | Medium |
@@ -239,4 +242,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityasipani/Leetcode_Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/adityasipani/Leetcode_Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
