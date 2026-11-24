@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3225-maximum-score-from-grid-operations](https://github.com/adityasipani/Leetcode_Questions/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityasipani/Leetcode_Questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3331-find-subtree-sizes-after-changes](https://github.com/adityasipani/Leetcode_Questions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityasipani/Leetcode_Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityasipani/Leetcode_Questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityasipani/Leetcode_Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/adityasipani/Leetcode_Questions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityasipani/Leetcode_Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/adityasipani/Leetcode_Questions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -197,10 +200,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/adityasipani/Leetcode_Questions/tree/main/1871-jump-game-vii/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityasipani/Leetcode_Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/adityasipani/Leetcode_Questions/tree/main/1291-sequential-digits/) | Medium |
+| [3411-maximum-subarray-with-equal-products](https://github.com/adityasipani/Leetcode_Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
