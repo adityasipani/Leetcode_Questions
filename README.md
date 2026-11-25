@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/adityasipani/Leetcode_Questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/adityasipani/Leetcode_Questions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/adityasipani/Leetcode_Questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/adityasipani/Leetcode_Questions/tree/main/2540-minimum-common-value/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3934-smallest-unique-subarray](https://github.com/adityasipani/Leetcode_Questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,4 +258,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/adityasipani/Leetcode_Questions/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityasipani/Leetcode_Questions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityasipani/Leetcode_Questions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/adityasipani/Leetcode_Questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
