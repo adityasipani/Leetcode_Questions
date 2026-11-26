@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adityasipani/Leetcode_Questions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/adityasipani/Leetcode_Questions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/adityasipani/Leetcode_Questions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/adityasipani/Leetcode_Questions/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/adityasipani/Leetcode_Questions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/adityasipani/Leetcode_Questions/tree/main/3360-stone-removal-game/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
