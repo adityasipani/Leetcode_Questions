@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3742-maximum-path-score-in-a-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/adityasipani/Leetcode_Questions/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/adityasipani/Leetcode_Questions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityasipani/Leetcode_Questions/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/adityasipani/Leetcode_Questions/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,4 +278,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3934-smallest-unique-subarray](https://github.com/adityasipani/Leetcode_Questions/tree/main/3934-smallest-unique-subarray/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/adityasipani/Leetcode_Questions/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 <!---LeetCode Topics End-->
